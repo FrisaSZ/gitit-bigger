@@ -8,8 +8,8 @@ BIGGER_SETTINGS_APPEND = {
         "enable":false,
     },
 	"highlightjs": {
-        "enable": false,
-        "theme": "github"
+        "enable": true,
+        "theme": "solarized-dark"
     }
 }
 </script>
