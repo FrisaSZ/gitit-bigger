@@ -6,6 +6,10 @@
 BIGGER_SETTINGS_APPEND = {
     "ace":{
         "enable":false,
+    },
+	"highlightjs": {
+        "enable": false,
+        "theme": "github"
     }
 }
 </script>
